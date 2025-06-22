@@ -1,0 +1,17 @@
+{
+  "name": "task-tracker",
+  "version": "1.0.0",
+  "description": "a simple CLI to add, update, delete, and monitor your tasks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "taskTr": "index.mjs"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^18.0.0"
+  }
+}
