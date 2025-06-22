@@ -13,7 +13,7 @@ A simple Node.js command-line tool to manage your tasks—add, update, delete, l
 ## 🚀 Getting Started
 npm install
 ### 1. Clone the project
-git clone https://github.com/your-username/task-manager-cli.git
+git clone https://github.com/marbella267/task-tracker.git
 cd task-manager-cli
 ### run the script
 TaskTr <command> [parameters]
